@@ -32,4 +32,5 @@
 </div>
 
 ## Holophin Badges - Hactoberfest 2024 
-[![An image of @souvikpramanikgit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/souvikpramanikgit)](https://holopin.io/@souvikpramanikgit).
+[![An image of @souvikpramanikgit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/souvikpramanikgit)](https://holopin.io/@souvikpramanikgit)
+
