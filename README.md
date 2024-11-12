@@ -36,6 +36,14 @@
 ## Holophin Badges - Hactoberfest 2024 
 [![An image of @souvikpramanikgit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/souvikpramanikgit)](https://holopin.io/@souvikpramanikgit)
 
+<p>
+    <h2 align="center">Visitors Count</h2>
+    <p align="center">
+      <img src="https://profile-counter.glitch.me/souvikpramanikgit/count.svg" alt="VisitorCount">
+    </p>
+</p>
+
+
 <p align="center">
   <b>Thank You For the Visit!🌟<b>
 </p>
