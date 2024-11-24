@@ -5,11 +5,10 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"> 
 
-
 - I’m currently learning **C++, Data Structure and Algorithms and Web Development.** 
 - 💬 Ask me about **C++ and Data Structures.**
-- ⚡ **Would love to explore new things.** 
-
+- ⚡ **Would love to explore new things.**
+  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
