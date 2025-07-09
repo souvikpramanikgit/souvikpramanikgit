@@ -52,6 +52,13 @@
     </p>
 </p>
 
+<p>
+    <h2 align="center">Visitors Count</h2>
+    <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=souvikpramanikgit&label=VIEWS" alt="VisitorCount">
+    </p>
+</p>
+
 
 <p align="center">
   <b>Thank You For the Visit!🌟<b>
