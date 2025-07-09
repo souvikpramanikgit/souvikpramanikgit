@@ -48,13 +48,6 @@
 <p>
     <h2 align="center">Visitors Count</h2>
     <p align="center">
-      <img src="https://profile-counter.glitch.me/souvikpramanikgit/count.svg" alt="VisitorCount">
-    </p>
-</p>
-
-<p>
-    <h2 align="center">Visitors Count</h2>
-    <p align="center">
       <img src="https://komarev.com/ghpvc/?username=souvikpramanikgit&label=VIEWS" alt="VisitorCount">
     </p>
 </p>
