@@ -26,6 +26,7 @@
 <br> <br> <br>
 
 ## GSSOC(24) Badges 
+
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <a href="https://drive.google.com/file/d/1KhsTLIpCwrq6E_TYVPomwUzbsFcIPwtC/view?usp=sharing">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="120px" height="120px" />
